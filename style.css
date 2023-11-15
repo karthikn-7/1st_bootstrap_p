@@ -1,0 +1,61 @@
+/* containers */
+
+.cont-bg{
+    background-color: rgb(0, 0, 0);
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.cont-bg3{
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+.cont-bg3{
+    text-align: center;
+}
+
+/* rows */
+
+.row1{
+    padding:20px;
+
+}
+/* columns */
+.col2{
+    text-align: center;
+}
+
+.col1 img{
+    width: 100px;
+    
+}
+.col3{
+    text-align: center;
+}
+.col4{
+    text-align: center;
+}
+
+.col5 ul{
+    text-align: center;
+    list-style: none;
+}
+.col5 h5{
+    text-align: center;
+}
+.col5 p{
+    font-size: medium;
+    color: rgb(95, 95, 95);
+}
+.col5 {
+    text-align: center;
+}
+/* col3 button */
+
+.col3 button{
+    color: rgb(3, 3, 3);
+    background-color: white;
+    border: white;
+}
